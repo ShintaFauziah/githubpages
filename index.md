@@ -1,6 +1,7 @@
 ## Welcome to Shinta's Github Page
 
-Hello my name is Shinta Fauziah, but you can call me Shinta. I am college student in University of Indonesia. On this semester, I am taking an Operating System course and this website is one of my projects. Layouts and Styles on this website are from jekyll theme
+Hello my name is Shinta Fauziah, but you can call me Shinta. I am college student in University of Indonesia. On this semester, I am taking an Operating System course and this website is one of my projects. Layouts and Styles on this website are from jekyll theme.
+
 <img src="Shinta4.jpg" width="180">
 
 ## Operating System
