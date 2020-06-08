@@ -1,3 +1,7 @@
+---
+permalink: /URLs/
+---
+
 ## Introduction to Operating System
 [Introduction Link](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)
 
